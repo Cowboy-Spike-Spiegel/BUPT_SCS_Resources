@@ -18,4 +18,4 @@
 
 **数据结构**
 
-launched by BUPT_CSS_MTC
+launched by BUPT_SCS_MTC
