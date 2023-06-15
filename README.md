@@ -26,6 +26,8 @@
 
 **Term 4 计算机网络**
 
+**Term 6 Linux**
+
 附带：军事理论
 
 launched by BUPT_SCS_MTC
