@@ -25,7 +25,6 @@
 19. Term 6 现代交换原理
 20. Term 6 软件工程
 21. Term 6 Linux
-
-  附带：军事理论
+22. 附带：军事理论
 
 launched by BUPT_SCS_MTC
