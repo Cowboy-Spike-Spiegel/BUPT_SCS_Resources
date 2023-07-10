@@ -1,0 +1,14 @@
+最后一题：爸爸妈妈儿子女儿橘子苹果问题（生产消费）
+第1题：operating system in an interactive manner is called
+还有一个填TCB，容易填成PCB
+
+
+
+
+银行家算法、CPU调度、生产者消费者信号量
+
+二大班考了银行家算法、读写者
+
+我们可能考哲学家问题或理发师问题
+
+
