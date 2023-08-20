@@ -2,7 +2,7 @@
 部分课程设计代码在我的其他repo中，都设为了public。课程设计代码都很规范。
 请多star，thx。
 
-非常希望bupt的uu们能够一起分享！fork后在对应分支进行pull request即可成为contributors，分享你的resource！
+非常希望bupt的uu们能够一起分享！fork后在对应分支进行[pull request](https://github.com/Cowboy-Spike-Spiegel/BUPT_SCS_Resources/pulls)即可成为contributors，分享你的resource！
 
 目前考试内容已上传：
 1. Term 1 线性代数
